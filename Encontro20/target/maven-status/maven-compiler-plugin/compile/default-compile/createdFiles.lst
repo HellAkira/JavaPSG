@@ -1,0 +1,9 @@
+com\mycompany\encontro20\FakeDB\EstoqueFakeDB.class
+com\mycompany\encontro20\Pojo\ProdutoPojo.class
+com\mycompany\encontro20\Pojo\CamposDeData.class
+com\mycompany\encontro20\Pojo\CamposComuns.class
+com\mycompany\encontro20\Pojo\CategoriaPojo.class
+com\mycompany\encontro20\Pojo\SubCategoriaPojo.class
+com\mycompany\encontro20\Principal.class
+com\mycompany\encontro20\DAO\CategoriaDao.class
+com\mycompany\encontro20\Service\CategoriaService.class
